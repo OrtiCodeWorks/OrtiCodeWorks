@@ -6,28 +6,30 @@
 
 Nice to meet you, let me introduce myself.
   <ul>
-    <li>👨‍💻 I'm a <b>web developer stu</b></li>
-    <li>🌐 Currently learning <b>AI development and Big Data</b></li>
+    <li>👨‍💻 I'm a <b>student of multiplatform application development</b></li>
+    <li>🌐 Currently learning <b>Multiplatform Application Development</b></li>
   </ul>
 Passionate programmer, I am always looking for new challenges.
 </p>
 
 ## 🌐 You can find me on :
 <p align="start">
-  <a href="https://www.linkedin.com/in/rogudev/" target="_blank">
+  <a href="www.linkedin.com/in/simonortizgutierrez" target="_blank">
     <img alt="Rogudev LinkedIn profile" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="5%">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp; 
+  <!--
   <a href="https://rogudev.com/en" target="_blank">
     <img alt="Rogudev web" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Htmx-Dark.svg" width="5%">
   </a>
+  -->
 </p>
 
 
 ## 🖥️ My tech skills :
 
 <p align="right">
-  <h3><i>Frontend environment:</i></h3>
+  <h3><i>Frontend Environment:</i></h3>
   <table>
   <tr border: none;>
     <td align="center" width="110">
@@ -51,7 +53,7 @@ Passionate programmer, I am always looking for new challenges.
   </tr>
 </table>
 <p>
-  <h3><i>Backend environment:</i></h3>
+  <h3><i>Backend Environment:</i></h3>
   <table>
   <tr border: none;>
     <td align="center" width="110">
@@ -69,6 +71,21 @@ Passionate programmer, I am always looking for new challenges.
   </tr>
 </table>
 </p>
+<p>
+  <h3><i>Data Bases:</i></h3>
+  <table>
+  <tr border: none;>
+    <td align="center" width="110">
+      <a href="#%EF%B8%8F-my-tech-stacks-">
+        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.esepestudio.com%2Fnoticias%2Fque-es-mysql&psig=AOvVaw0I6oY_0gDl56KUD56_KQx1&ust=1742816158528000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDf4aKOoIwDFQAAAAAdAAAAABAE" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>JAVA
+    </td>
+  </tr>
+</table>
+</p>
+
+<!--
 <p>
   <h3><i>Cloud Storage:</i></h3>
   <table>
@@ -113,6 +130,7 @@ Passionate programmer, I am always looking for new challenges.
   </tr>
 </table>
 </p>
+-->
 
 ## 🚧 Projects:
 
@@ -124,6 +142,7 @@ Passionate programmer, I am always looking for new challenges.
         <td><b>👨‍💻 Language</b></td>
       </tr>
     </thead>
+    <!--
     <tbody>
   <tr align="center">
     <td>
@@ -171,6 +190,7 @@ Passionate programmer, I am always looking for new challenges.
     <td><img alt="Language" src="https://skillicons.dev/icons?i=python,azure,mongo" /></td>
   </tr>
  </tbody>
+ -->
 </table>
 
 
