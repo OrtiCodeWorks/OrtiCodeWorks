@@ -1,6 +1,6 @@
 # Hello there, I'm Simón Ortiz
 
-<!-- <img src="https://github.com/Rogudev/Rogudev/blob/main/banner.svg"/> -->
+<!-- <img src="CABECERA"/> -->
 
 <hr>
 
@@ -15,14 +15,9 @@ Passionate programmer, I am always looking for new challenges.
 ## 🌐 You can find me on :
 <p align="start">
   <a href="www.linkedin.com/in/simonortizgutierrez" target="_blank">
-    <img alt="Rogudev LinkedIn profile" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="5%">
+    <img alt="SiwonDev LinkedIn profile" src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" width="5%">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp; 
-  <!--
-  <a href="https://rogudev.com/en" target="_blank">
-    <img alt="Rogudev web" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Htmx-Dark.svg" width="5%">
-  </a>
-  -->
 </p>
 
 
@@ -79,58 +74,12 @@ Passionate programmer, I am always looking for new challenges.
       <a href="#%EF%B8%8F-my-tech-stacks-">
         <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.esepestudio.com%2Fnoticias%2Fque-es-mysql&psig=AOvVaw0I6oY_0gDl56KUD56_KQx1&ust=1742816158528000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNDf4aKOoIwDFQAAAAAdAAAAABAE" width="48" height="48" alt="MySQL" />
       </a>
-      <br>JAVA
+      <br>MySQL
     </td>
   </tr>
 </table>
 </p>
 
-<!--
-<p>
-  <h3><i>Cloud Storage:</i></h3>
-  <table>
-  <tr border: none;>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" width="48" height="48" alt="Azure" />
-      </a>
-      <br>Azure
-    </td>	  
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="48" height="48" alt="AWS" />
-      </a>
-      <br>AWS
-    </td>
-  </tr>
-</table>
-</p>
-<p>
-  <h3><i>Big Data tools:</i></h3>
-  <table>
-  <tr border: none;>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/hadoop.png" width="48" height="48" alt="Hadoop" />
-      </a>
-      <br>Hadoop
-    </td>	  
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/apache_spark.png" width="48" height="48" alt="Apache Spark" />
-      </a>
-      <br>Apache Spark
-    </td>
-    <td align="center" width="110">
-      <a href="#%EF%B8%8F-my-tech-stacks-">
-        <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="48" height="48" alt="Docker" />
-      </a>
-      <br>Docker
-    </td>
-  </tr>
-</table>
-</p>
--->
 
 ## 🚧 Projects:
 
@@ -142,55 +91,20 @@ Passionate programmer, I am always looking for new challenges.
         <td><b>👨‍💻 Language</b></td>
       </tr>
     </thead>
-    <!--
-    <tbody>
+  <tbody>
+
   <tr align="center">
     <td>
-      <a href="https://github.com/Rogudev/critters" target="_blank"><b>Critters</b></a>
+      <a href="Enlace del proyecto en GIT" target="_blank"><b>Critters</b></a>
     </td>
     <td>
-      <a href="https://critters.rogudev.com/" target="_blank"><b>✅</b></a>
+      <a href="Pagina WEB Personal" target="_blank"><b>✅</b></a>
     </td>
-    <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery" /></td>
+    <td><img alt="Language" src="https://skillicons.dev/icons?i=java" /></td>
   </tr>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/Rogudev/Star-Wars-Cards" target="_blank"><b>Star Wars Cards</b></a>
-    </td>
-    <td>
-      <a href="https://rogudev.github.io/Star-Wars-Cards/" target="_blank"><b>✅</b></a>
-    </td>
-    <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,jquery,laravel" /></td>
-  </tr>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/Rogudev/MythAPI-API" target="_blank"><b>MythAPI</b></a>
-    </td>
-    <td>
-      <a href="https://rogudev.github.io/MythAPI-web/" target="_blank"><b>✅</b></a>
-    </td>
-    <td><img alt="Language" src="https://skillicons.dev/icons?i=html,css,bootstrap,nodejs" /></td>
-  </tr>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/Rogudev/ToDo-list---Tkinter" target="_blank"><b>To Do projects list</b></a>
-    </td>
-    <td>
-      <p><b>❌</b></p>
-    </td>
-    <td><img alt="Language" src="https://skillicons.dev/icons?i=python" /></td>
-  </tr>
-  <tr align="center">
-    <td>
-      <a href="https://github.com/Rogudev/azure-to-mongodb-spark" target="_blank"><b>Spark: Azure to MongoDB</b></a>
-    </td>
-    <td>
-      <p><b>❌</b></p>
-    </td>
-    <td><img alt="Language" src="https://skillicons.dev/icons?i=python,azure,mongo" /></td>
-  </tr>
+
  </tbody>
- -->
+
 </table>
 
 
