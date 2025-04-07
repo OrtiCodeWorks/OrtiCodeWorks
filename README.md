@@ -99,9 +99,29 @@ Passionate programmer, I am always looking for new challenges.
       <a href="https://github.com/SiwonDev/BatallaDeDioses" target="_blank"><b>Batalla de Dioses</b></a>
     </td>
     <td>
-      <a href="https://github.com/SiwonDev/BatallaDeDioses" target="_blank"><b>En Proceso✅</b></a>
+      <a href="https://github.com/SiwonDev/BatallaDeDioses" target="_blank"><b>En Proceso ✅</b></a>
     </td>
     <td><img alt="Language" src="https://skillicons.dev/icons?i=java" /></td>
+  </tr>
+
+  <tr align="center">
+    <td>
+      <a href="https://github.com/SiwonDev/MundoBarbudo" target="_blank"><b>Mundo Barbudo</b></a>
+    </td>
+    <td>
+      <a href="https://github.com/SiwonDev/MundoBarbudo" target="_blank"><b>En Proceso ✅</b></a>
+    </td>
+    <td><img alt="Language" src="https://skillicons.dev/icons?i=js,html,css" /></td>
+  </tr>
+
+  <tr align="center">
+    <td>
+      <a href="https://github.com/SiwonDev" target="_blank"><b>WEB Personal</b></a>
+    </td>
+    <td>
+      <a href="https://github.com/SiwonDev" target="_blank"><b>En Proceso ✅</b></a>
+    </td>
+    <td><img alt="Language" src="https://skillicons.dev/icons?i=js,html,css" /></td>
   </tr>
 
  </tbody>
