@@ -1,6 +1,6 @@
 # Hello there, I'm Simón Ortiz
 
-<!-- <img src="CABECERA"/> -->
+<img src="Cabecera.PNG"/>
 
 <hr>
 
