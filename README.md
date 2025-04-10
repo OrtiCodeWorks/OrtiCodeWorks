@@ -1,4 +1,4 @@
-# Hello there, I'm Simón Ortiz
+# Hello there, I'm Simón Ortiz Gutiérrez
 
 <img src="Cabecera.PNG"/>
 
@@ -116,10 +116,10 @@ Passionate programmer, I am always looking for new challenges.
 
   <tr align="center">
     <td>
-      <a href="https://github.com/SiwonDev" target="_blank"><b>WEB Personal</b></a>
+      <a href="https://github.com/SiwonDev/WEB-Personal" target="_blank"><b>WEB Personal</b></a>
     </td>
     <td>
-      <a href="https://github.com/SiwonDev" target="_blank"><b>En Proceso ✅</b></a>
+      <a href="https://github.com/SiwonDev/WEB-Personal" target="_blank"><b>En Proceso ✅</b></a>
     </td>
     <td><img alt="Language" src="https://skillicons.dev/icons?i=js,html,css" /></td>
   </tr>
