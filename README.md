@@ -12,6 +12,15 @@ Nice to meet you, let me introduce myself.
 Passionate programmer, I am always looking for new challenges.
 </p>
 
+---
+ 
+## 📚 GitHub Analytics
+ 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=OrtiCodeWorks_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=OrtiCodeWorks=compact&theme=tokyonight)
+ 
+---
+
 ## 🌐 You can find me on :
 <p align="start">
   <a href="www.linkedin.com/in/simonortizgutierrez" target="_blank">
