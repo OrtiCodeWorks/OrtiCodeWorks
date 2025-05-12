@@ -16,8 +16,8 @@ Passionate programmer, I am always looking for new challenges.
  
 ## 📚 GitHub Analytics
  
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=OrtiCodeWorks_icons=true&theme=tokyonight)
-![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=OrtiCodeWorks=compact&theme=tokyonight)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=OrtiCodeWorks&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=OrtiCodeWorks&layout=compact&theme=tokyonight)
  
 ---
 
